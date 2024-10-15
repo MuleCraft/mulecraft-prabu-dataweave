@@ -2,5 +2,5 @@
 output application/json
 ---
 {
-    "result": payload.a ++ payload.b
+    "result": payload.a ++  payload.b
 }
