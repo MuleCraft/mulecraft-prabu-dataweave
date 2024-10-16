@@ -48,3 +48,9 @@ Click below to try `avg` function in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-prabu-dataweave&path=dw-core/avg"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### Returns true if an input contains a given value, false if not.
+
+Click below to try `contains` function in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-prabu-dataweave&path=dw-core/contains"><img width="300" src="/images/dwplayground-button.png"><a>
+
