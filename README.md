@@ -38,7 +38,13 @@ Click below to try `/` operator in DataWeave Playground:
 
 #### This version of "--" removes all instances of the specified items from an array.
 
-Click below to try `--` operator in DataWeave Playground:
+Click below to try `--` function in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-prabu-dataweave&path=dw-core/minusminus"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### Returns the average of numbers listed in an array.
+
+Click below to try `avg` function in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-prabu-dataweave&path=dw-core/avg"><img width="300" src="/images/dwplayground-button.png"><a>
 
