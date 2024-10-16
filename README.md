@@ -16,3 +16,9 @@ Click below to try `filter` function in DataWeave Playground:
 Click below to try `+` function in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-prabu-dataweave&path=dw-core/addition"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "-" subtracts values.
+
+Click below to try `-` function in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-prabu-dataweave&path=dw-core/subtraction"><img width="300" src="/images/dwplayground-button.png"><a>
