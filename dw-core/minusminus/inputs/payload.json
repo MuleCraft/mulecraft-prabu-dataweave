@@ -1,1 +1,5 @@
-
+{
+    "a" : [0, 1, 1, 2],
+    "b": { "hello" : "world", "name" : "DW" },
+    "c": { "yes" : "no", "good" : "bad", "old" : "new" }
+}
