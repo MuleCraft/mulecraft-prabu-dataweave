@@ -54,3 +54,9 @@ Click below to try `contains` function in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-prabu-dataweave&path=dw-core/contains"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### Iterates a list of key-value pairs in an object and applies an expression that returns only matching objects.
+
+Click below to try `filterObject` function in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-prabu-dataweave&path=dw-core/filterobject"><img width="300" src="/images/dwplayground-button.png"><a>
+
