@@ -1,1 +1,20 @@
-
+{
+  "output1": {
+    "fruit1": "apple"
+  },
+  "output2": {
+    "letter1": "x",
+    "letter2": "y"
+  },
+  "output3": {
+    "1": "a",
+    "2": "b",
+    "3": "c"
+  },
+  "output4": {
+    "str1": "String 1",
+    "str2": "String 2",
+    "str4": "String 4",
+    "str6": "String 6"
+  }
+}
