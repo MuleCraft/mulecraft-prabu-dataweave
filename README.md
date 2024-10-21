@@ -60,3 +60,9 @@ Click below to try `filterObject` function in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-prabu-dataweave&path=dw-core/filterobject"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### Logical operators in DataWeave.
+
+Click below to try Logical operators in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-prabu-dataweave&path=dw-core/logical operators"><img width="300" src="/images/dwplayground-button.png"><a>
+
