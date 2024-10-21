@@ -1,1 +1,11 @@
-
+{
+  "result1": false,
+  "result2": [
+    5645,
+    60
+  ],
+  "result3": true,
+  "result4": false,
+  "result5": true,
+  "result6": true
+}
