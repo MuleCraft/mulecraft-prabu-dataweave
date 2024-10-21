@@ -1,1 +1,9 @@
-
+{
+    "a": 25,
+    "b": 56,
+    "c": [5645,60,45,25.56],
+    "d": [45,89,65,87,21,36,45,25,60,31,15],
+    "e": ["India", "Pakistan", "SriLanka", "India", "Australia" ],
+    "f": ["Australia", "New Zealand", "Afghanistan", "Nepal"],
+    "g": 25
+}
