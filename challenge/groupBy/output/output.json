@@ -1,1 +1,18 @@
-
+{
+  "false": [
+    {
+      "merchantName": "HelloFresh"
+    },
+    {
+      "merchantName": "Guitar Center"
+    }
+  ],
+  "true": [
+    {
+      "merchantName": "Amazon"
+    },
+    {
+      "merchantName": "Walmart"
+    }
+  ]
+}
