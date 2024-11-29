@@ -1,1 +1,27 @@
-
+{
+    "input": [
+        {
+            "CompanyName": "MuleCraft",
+            "EmployeeCount": "20",
+            "EmployeeNumber": [
+                "12",
+                "ac12",
+                "df13"
+            ],
+            "Contact": [
+                {
+                    "PhoneNo": "77084 43455",
+                    "Email": "info@mulecraft.in"
+                },
+                {
+                    "PhoneNo": "77084 43455",
+                    "Email": "info@mulecraft.in"
+                }
+            ],
+            "Employeename": {
+                "name": "Pranay"
+            }
+        }
+    ]
+}
+ 
