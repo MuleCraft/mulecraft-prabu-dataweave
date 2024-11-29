@@ -74,4 +74,24 @@ Click below to try the challenge:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/groupBy"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### map&filter
+
+Click below to try the challenge
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/map&filter"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### upperCase
+
+Click below to try the challenge
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/upperCase"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### string reverse
+
+Click below to try the challenge
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/string reverse"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
+
 
