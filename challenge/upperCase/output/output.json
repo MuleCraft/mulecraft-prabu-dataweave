@@ -1,1 +1,26 @@
-
+{
+  "INPUT": [
+    {
+      "COMPANYNAME": "MULECRAFT",
+      "EMPLOYEECOUNT": "20",
+      "EMPLOYEENUMBER": [
+        "12",
+        "AC12",
+        "DF13"
+      ],
+      "CONTACT": [
+        {
+          "PHONENO": "77084 43455",
+          "EMAIL": "INFO@MULECRAFT.IN"
+        },
+        {
+          "PHONENO": "77084 43455",
+          "EMAIL": "INFO@MULECRAFT.IN"
+        }
+      ],
+      "EMPLOYEENAME": {
+        "NAME": "PRANAY"
+      }
+    }
+  ]
+}
