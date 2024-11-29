@@ -74,11 +74,11 @@ Click below to try the challenge:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/groupBy"><img width="300" src="/images/dwplayground-button.png"><a>
 
-#### map&filter
+#### map and filter
 
 Click below to try the challenge
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/map&filter"><img width="300" src="/images/dwplayground-button.png"><a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/map and filter"><img width="300" src="/images/dwplayground-button.png"><a>
 
 #### upperCase
 
