@@ -1,1 +1,20 @@
-
+{
+  "app.js": [
+    {
+      "timeStamp": "2024-12-05T10:10:00Z",
+      "logLevel": "ERROR",
+      "sourceFile": "app.js",
+      "lineNumber": "67",
+      "message": "Unhandled exception"
+    }
+  ],
+  "db.js": [
+    {
+      "timeStamp": "2024-12-05T10:20:00Z",
+      "logLevel": "ERROR",
+      "sourceFile": "db.js",
+      "lineNumber": "90",
+      "message": "Failed to retrieve data"
+    }
+  ]
+}
