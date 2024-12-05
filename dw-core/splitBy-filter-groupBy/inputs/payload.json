@@ -1,1 +1,7 @@
+2024-12-05T10:00:00Z|INFO|server.js|123|Server started
+2024-12-05T10:05:00Z|WARN|db.js|45|Database connection slow
+2024-12-05T10:10:00Z|ERROR|app.js|67|Unhandled exception
+2024-12-05T10:15:00Z|INFO|server.js|130|Handled request
+2024-12-05T10:20:00Z|ERROR|db.js|90|Failed to retrieve data
+
 
