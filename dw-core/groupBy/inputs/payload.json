@@ -1,1 +1,38 @@
-
+[
+  {
+    "productId": "P001",
+    "productName": "Laptop",
+    "quantitySold": 2,
+    "pricePerUnit": 1500
+  },
+  {
+    "productId": "P002",
+    "productName": "Mouse",
+    "quantitySold": 5,
+    "pricePerUnit": 20
+  },
+  {
+    "productId": "P001",
+    "productName": "Laptop",
+    "quantitySold": 1,
+    "pricePerUnit": 1500
+  },
+  {
+    "productId": "P003",
+    "productName": "Keyboard",
+    "quantitySold": 3,
+    "pricePerUnit": 45
+  },
+  {
+    "productId": "P002",
+    "productName": "Mouse",
+    "quantitySold": 2,
+    "pricePerUnit": 20
+  },
+  {
+    "productId": "P003",
+    "productName": "Keyboard",
+    "quantitySold": 2,
+    "pricePerUnit": 45
+  }
+]
