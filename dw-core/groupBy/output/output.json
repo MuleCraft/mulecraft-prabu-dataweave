@@ -1,1 +1,11 @@
-
+{
+  "productId": "P001",
+  "productName": "Laptop",
+  "totalRevenue": 4500,
+  "productId": "P002",
+  "productName": "Mouse",
+  "totalRevenue": 140,
+  "productId": "P003",
+  "productName": "Keyboard",
+  "totalRevenue": 225
+}
