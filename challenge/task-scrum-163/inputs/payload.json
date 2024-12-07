@@ -1,1 +1,17 @@
-
+[
+  {
+    "name": "Alice",
+    "marks": [85, 90, null],
+    "attendance": 80
+  },
+  {
+    "name": "Bob",
+    "marks": [null, 70, 75],
+    "attendance": 60
+  },
+  {
+    "name": "Charlie",
+    "marks": [],
+    "attendance": 85
+  }
+]
