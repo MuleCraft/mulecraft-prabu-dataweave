@@ -1,1 +1,48 @@
-
+{
+  "Engineering": [
+    {
+      "name": "John Doe",
+      "salary": 75000,
+      "joiningDate": "2023-04-15"
+    },
+    {
+      "name": "Emma Green",
+      "salary": 71000,
+      "joiningDate": "2018-02-21"
+    },
+    {
+      "name": "Sam Johnson",
+      "salary": 68000,
+      "joiningDate": "2021-11-01"
+    }
+  ],
+  "Human Resources": [
+    {
+      "name": "Lisa Brown",
+      "salary": 58000,
+      "joiningDate": "2019-03-12"
+    },
+    {
+      "name": "Chris Black",
+      "salary": 54000,
+      "joiningDate": "2017-12-05"
+    }
+  ],
+  "Marketing": [
+    {
+      "name": "Tom White",
+      "salary": 65000,
+      "joiningDate": "2020-06-10"
+    },
+    {
+      "name": "Jane Smith",
+      "salary": 62000,
+      "joiningDate": "2022-09-23"
+    },
+    {
+      "name": "Olivia Blue",
+      "salary": 60000,
+      "joiningDate": "2023-01-18"
+    }
+  ]
+}
