@@ -1,1 +1,44 @@
-
+{
+  "customerId": "C001",
+  "totalOrderAmount": 1545,
+  "orders": [
+    {
+      "orderId": "O1001",
+      "product": "Laptop",
+      "orderAmount": 1500
+    },
+    {
+      "orderId": "O1003",
+      "product": "Keyboard",
+      "orderAmount": 45
+    }
+  ],
+  "customerId": "C002",
+  "totalOrderAmount": 120,
+  "orders": [
+    {
+      "orderId": "O1002",
+      "product": "Mouse",
+      "orderAmount": 20
+    },
+    {
+      "orderId": "O1005",
+      "product": "Chair",
+      "orderAmount": 100
+    }
+  ],
+  "customerId": "C003",
+  "totalOrderAmount": 500,
+  "orders": [
+    {
+      "orderId": "O1004",
+      "product": "Monitor",
+      "orderAmount": 200
+    },
+    {
+      "orderId": "O1006",
+      "product": "Desk",
+      "orderAmount": 300
+    }
+  ]
+}
