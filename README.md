@@ -80,19 +80,19 @@ Click below to try 'splitBy-filter-groupBy' in DataWeave Playground:
 
 #### groupBy
 
-Click below to try 'splitBy-filter-groupBy' in DataWeave Playground:
+Click below to try 'groupBy' in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/groupBy"><img width="300" src="/images/dwplayground-button.png"><a>
 
 #### distinctBy
 
-Click below to try 'splitBy-filter-groupBy' in DataWeave Playground:
+Click below to try 'distinctBy' in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/distinctBy"><img width="300" src="/images/dwplayground-button.png"><a>
 
 #### orderBy
 
-Click below to try 'splitBy-filter-groupBy' in DataWeave Playground:
+Click below to try 'orderBy' in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/orderBy"><img width="300" src="/images/dwplayground-button.png"><a>
 
