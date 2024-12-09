@@ -1,1 +1,32 @@
-
+[
+  {
+    "orderId": "O1001",
+    "customerId": "C001",
+    "productName": "Laptop",
+    "quantity": 10
+  },
+  {
+    "orderId": "O1002",
+    "customerId": "C002",
+    "productName": "Mouse",
+    "quantity": 5
+  },
+  {
+    "orderId": "O1003",
+    "customerId": "C001",
+    "productName": "Keyboard",
+    "quantity": 2
+  },
+  {
+    "orderId": "O1004",
+    "customerId": "C003",
+    "productName": "Laptop",
+    "quantity": 7
+  },
+  {
+    "orderId": "O1005",
+    "customerId": "C004",
+    "productName": "Monitor",
+    "quantity": 3
+  }
+]
