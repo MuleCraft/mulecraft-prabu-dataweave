@@ -1,1 +1,32 @@
-
+[
+  {
+    "feedbackId": "F001",
+    "customerId": "C001",
+    "numberOfRatings": 3,
+    "averageRating": 4.666666666666666666666666666666667
+  },
+  {
+    "feedbackId": "F002",
+    "customerId": "C002",
+    "numberOfRatings": 3,
+    "averageRating": 4
+  },
+  {
+    "feedbackId": "F003",
+    "customerId": "C001",
+    "numberOfRatings": 3,
+    "averageRating": 4.333333333333333333333333333333333
+  },
+  {
+    "feedbackId": "F004",
+    "customerId": "C003",
+    "numberOfRatings": 3,
+    "averageRating": 5
+  },
+  {
+    "feedbackId": "F005",
+    "customerId": "C002",
+    "numberOfRatings": 3,
+    "averageRating": 3
+  }
+]
