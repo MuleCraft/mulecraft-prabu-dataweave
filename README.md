@@ -120,6 +120,12 @@ Click below to try 'daysBetween' in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/daysBetween"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### isEmpty
+
+Click below to try 'isEmpty' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/isEmpty"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
