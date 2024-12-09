@@ -96,6 +96,12 @@ Click below to try 'orderBy' in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/orderBy"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### map
+
+Click below to try 'map' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/map"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
