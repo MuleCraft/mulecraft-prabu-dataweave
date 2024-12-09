@@ -108,6 +108,12 @@ Click below to try 'sizeOf' in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/sizeOf"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### flatten
+
+Click below to try 'flatten' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/flatten"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
