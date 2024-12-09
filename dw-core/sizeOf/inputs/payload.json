@@ -1,1 +1,52 @@
-
+[
+  {
+    "feedbackId": "F001",
+    "customerId": "C001",
+    "comments": "Great service",
+    "ratings": [
+      4,
+      5,
+      5
+    ]
+  },
+  {
+    "feedbackId": "F002",
+    "customerId": "C002",
+    "comments": "Good quality",
+    "ratings": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "feedbackId": "F003",
+    "customerId": "C001",
+    "comments": "Quick delivery",
+    "ratings": [
+      5,
+      4,
+      4
+    ]
+  },
+  {
+    "feedbackId": "F004",
+    "customerId": "C003",
+    "comments": "Very satisfied",
+    "ratings": [
+      5,
+      5,
+      5
+    ]
+  },
+  {
+    "feedbackId": "F005",
+    "customerId": "C002",
+    "comments": "Average experience",
+    "ratings": [
+      3,
+      3,
+      3
+    ]
+  }
+]
