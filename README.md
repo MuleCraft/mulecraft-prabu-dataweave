@@ -114,6 +114,13 @@ Click below to try 'flatten' in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/flatten"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### daysBetween
+
+Click below to try 'daysBetween' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/daysBetween"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
 
 
 
