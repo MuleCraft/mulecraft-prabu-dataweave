@@ -102,6 +102,12 @@ Click below to try 'map' in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/map"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### sizeOf
+
+Click below to try 'sizeOf' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/sizeOf"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
