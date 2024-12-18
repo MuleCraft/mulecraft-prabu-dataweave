@@ -1,1 +1,8 @@
-
+{
+  "employees": [
+    { "id": 1, "name": "Alice Johnson", "salary": 70000 },
+    { "id": 2, "name": "Bob Smith", "salary": 80000 },
+    { "id": 3, "name": "Alice Johnson", "salary": 70000 },
+    { "id": 4, "name": "Charlie Brown", "salary": 60000 }
+  ]
+}
