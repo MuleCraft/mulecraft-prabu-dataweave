@@ -1,1 +1,32 @@
-
+{
+  "sales": [
+    {
+      "id": 1,
+      "product": "Laptop",
+      "price": 1200,
+      "quantity": 5,
+      "date": "2024-01-01"
+    },
+    {
+      "id": 2,
+      "product": "Phone",
+      "price": 800,
+      "quantity": 10,
+      "date": "2023-12-15"
+    },
+    {
+      "id": 3,
+      "product": "Tablet",
+      "price": 600,
+      "quantity": 3,
+      "date": "2023-11-30"
+    },
+    {
+      "id": 4,
+      "product": "Laptop",
+      "price": 1200,
+      "quantity": 2,
+      "date": "2024-01-05"
+    }
+  ]
+}
