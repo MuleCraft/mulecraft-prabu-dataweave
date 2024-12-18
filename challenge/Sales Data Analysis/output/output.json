@@ -1,1 +1,30 @@
-
+{
+  "distinctProducts": [
+    "Laptop",
+    "Phone",
+    "Tablet"
+  ],
+  "totalSales": 18200,
+  "salesByProduct": {
+    "Laptop": 7,
+    "Phone": 10,
+    "Tablet": 3
+  },
+  "sortedByQuantity": [
+    {
+      "product": "Tablet",
+      "quantity": 3
+    },
+    {
+      "product": "Laptop",
+      "quantity": 7
+    },
+    {
+      "product": "Phone",
+      "quantity": 10
+    }
+  ],
+  "totalProducts": 3,
+  "daysSinceLastSale": 348,
+  "isSalesEmpty": false
+}
