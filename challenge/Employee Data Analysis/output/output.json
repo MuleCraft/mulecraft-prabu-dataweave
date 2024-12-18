@@ -1,1 +1,26 @@
-
+{
+  "distinctEmployees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "Salary": 70000
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "Salary": 80000
+    },
+    {
+      "id": 4,
+      "name": "Charlie Brown",
+      "Salary": 60000
+    }
+  ],
+  "flattenSalaries": [
+    70000,
+    80000,
+    70000,
+    60000
+  ],
+  "totalSalaries": 280000
+}
