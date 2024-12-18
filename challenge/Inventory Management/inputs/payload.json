@@ -1,1 +1,24 @@
-
+{
+  "inventory": [
+    {
+      "item": "Apple",
+      "category": "Fruit",
+      "stock": 50
+    },
+    {
+      "item": "Banana",
+      "category": "Fruit",
+      "stock": 100
+    },
+    {
+      "item": "Carrot",
+      "category": "Vegetable",
+      "stock": 20
+    },
+    {
+      "item": "Potato",
+      "category": "Vegetable",
+      "stock": 75
+    }
+  ]
+}
