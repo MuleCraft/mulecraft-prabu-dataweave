@@ -1,1 +1,30 @@
-
+{
+  "groupedCategory": {
+    "Fruit": [
+      {
+        "item": "Apple",
+        "category": "Fruit",
+        "stock": 50
+      },
+      {
+        "item": "Banana",
+        "category": "Fruit",
+        "stock": 100
+      }
+    ],
+    "Vegetable": [
+      {
+        "item": "Carrot",
+        "category": "Vegetable",
+        "stock": 20
+      },
+      {
+        "item": "Potato",
+        "category": "Vegetable",
+        "stock": 75
+      }
+    ]
+  },
+  "isInventoryEmpty": false,
+  "totalItems": 245
+}
