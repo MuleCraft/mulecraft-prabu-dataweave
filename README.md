@@ -175,6 +175,12 @@ Click below to try the challenge
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/Sales Data Analysis"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### Employee Data Analysis
+
+Click below to try the challenge
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/Employee Data Analysis"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
