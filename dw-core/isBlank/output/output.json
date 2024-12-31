@@ -1,1 +1,9 @@
-
+{
+  "emptyString": true,
+  "stringWithSpaces": true,
+  "textString": false,
+  "somePayloadValue": true,
+  "nullString": true,
+  "notEmptyTextString": true,
+  "notEmptyTextStringTwo": false
+}
