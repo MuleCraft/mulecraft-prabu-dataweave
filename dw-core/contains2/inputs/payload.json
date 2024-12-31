@@ -1,1 +1,8 @@
+{
+    "a": [ 1, 2, 3, 4 ],
+    "b": "mulesoft",
+    "c": "some string",
+    "d": "Dataweave",
+    "e": "A very long string"
 
+}
