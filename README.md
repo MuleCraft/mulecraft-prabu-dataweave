@@ -132,6 +132,38 @@ Click below to try 'sum' in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/sum"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### isBlank
+
+Click below to try 'isBlank' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/isBlank"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### indexOf
+
+Click below to try 'indexOf' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/indexOf"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### endsWith
+
+Click below to try 'endsWith' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/endsWith"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### contains
+
+Click below to try 'contains' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/contains2"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### maxBy
+
+Click below to try 'maxBy' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/maxBy"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
+
 
 
 
