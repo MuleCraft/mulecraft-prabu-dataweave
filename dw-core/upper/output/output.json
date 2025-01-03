@@ -1,1 +1,17 @@
-
+{
+  "CATEGORY": {
+    "CAT1": "WEB",
+    "CAT2": "INTERNET"
+  },
+  "TITLE": "XQUERY KICK START",
+  "AUTHOR": [
+    "JAMES MCGOVERN",
+    "PER BOTHNER",
+    "KURT CAGLE",
+    "JAMES LINN",
+    "VAIDYANATHAN NAGARAJAN"
+  ],
+  "PUBLISHER": "PENGUIN PUBLICATIONS",
+  "YEAR": "2020",
+  "PRICE": "49.99"
+}
