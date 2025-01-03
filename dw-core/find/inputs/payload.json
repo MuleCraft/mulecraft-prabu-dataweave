@@ -1,1 +1,5 @@
-
+{
+    "a": ["Bond", "James", "Bond"],
+    "b": "I heart DataWeave",
+    "c": "aabccdbce"
+}
