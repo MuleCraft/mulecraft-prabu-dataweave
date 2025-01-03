@@ -1,1 +1,6 @@
-
+{
+  "output1": false,
+  "output2": false,
+  "output3": true,
+  "output4": true
+}
