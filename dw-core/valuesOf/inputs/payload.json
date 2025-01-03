@@ -1,1 +1,13 @@
-
+ {
+        "-category": "web",
+        "title":  "XQuery Kick Start",
+        "author": [
+          "James McGovern",
+          "Per Bothner",
+          "Kurt Cagle",
+          "James Linn",
+          "Vaidyanathan Nagarajan"
+        ],
+        "year": null,
+        "price": "49.99"
+      }
