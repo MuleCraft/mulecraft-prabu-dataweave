@@ -1,1 +1,17 @@
-
+ {
+        "category": {
+            "cat1": "web",
+            "cat2": "Internet"
+        },
+        "title":  "XQuery Kick Start",
+        "author": [
+          "James McGovern",
+          "Per Bothner",
+          "Kurt Cagle",
+          "James Linn",
+          "Vaidyanathan Nagarajan"
+        ],
+        "Publisher": "Penguin Publications"
+        "year": "2020",
+        "price": "49.99"
+      }
