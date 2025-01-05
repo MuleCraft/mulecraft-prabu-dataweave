@@ -164,7 +164,7 @@ Click below to try 'maxBy' in DataWeave Playground:
 
 #### minBy
 
-Click below to try 'maxBy' in DataWeave Playground:
+Click below to try 'minBy' in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/minBy"><img width="300" src="/images/dwplayground-button.png"><a>
 
