@@ -1,1 +1,7 @@
-
+{
+  "output1": "String",
+  "output2": "Array",
+  "output3": "Number",
+  "output4": "Boolean",
+  "output5": "Object"
+}
