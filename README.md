@@ -216,6 +216,12 @@ Click below to try 'lower' in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/lower"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### typeOf
+
+Click below to try 'typeOf' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/typeOf"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
