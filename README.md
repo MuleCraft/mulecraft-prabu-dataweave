@@ -162,6 +162,60 @@ Click below to try 'maxBy' in DataWeave Playground:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/maxBy"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### minBy
+
+Click below to try 'maxBy' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/minBy"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### find
+
+Click below to try 'find' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/find"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### isDecimal
+
+Click below to try 'isDecimal' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/isDecimal"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### isEven
+
+Click below to try 'isEven' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/isEven"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### isOdd
+
+Click below to try 'isOdd' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/isOdd"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### keysOf
+
+Click below to try 'keysOf' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/keysOf"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### valuesOf
+
+Click below to try 'valuesOf' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/valuesOf"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### upper
+
+Click below to try 'upper' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/upper"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### lower
+
+Click below to try 'lower' in DataWeave Playground:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=dw-core/lower"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
