@@ -1,1 +1,25 @@
-
+{
+  "summary": {
+    "totalTransactions": 3,
+    "totalAmount": 3200.25,
+    "positiveTransactions": [
+      {
+        "transactionId": "T001",
+        "amount": "1500.50",
+        "description": "Payment for invoice 1001"
+      },
+      {
+        "transactionId": "T002",
+        "amount": "2000.00",
+        "description": "Payment for invoice 1002"
+      }
+    ],
+    "negativeTransactions": [
+      {
+        "transactionId": "T003",
+        "amount": "-300.25",
+        "description": "Refund for invoice 1003"
+      }
+    ]
+  }
+}
