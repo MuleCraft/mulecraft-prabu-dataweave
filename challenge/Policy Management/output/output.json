@@ -1,1 +1,9 @@
-
+{
+  "policyId": "INS-123456",
+  "holderName": "JOHN DOE",
+  "isPremiumHigh": true,
+  "approvedClaimsCount": 1,
+  "pendingClaimsCount": 1,
+  "coverageType": "Comprehensive",
+  "maxClaimAmount": 3000
+}
