@@ -1,1 +1,30 @@
-
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "Laptop",
+      "price": 999.99,
+      "tags": [
+        "electronics",
+        "computers"
+      ]
+    },
+    {
+      "id": "002",
+      "name": "Smartphone",
+      "price": 499.99,
+      "tags": [
+        "electronics",
+        "mobile"
+      ]
+    },
+    {
+      "id": "003",
+      "name": "Desk Chair",
+      "price": 200.00,
+      "tags": [
+        "furniture"
+      ]
+    }
+  ]
+}
