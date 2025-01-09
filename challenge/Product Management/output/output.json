@@ -1,1 +1,27 @@
-
+{
+  "expensiveProduct": {
+    "id": "001",
+    "name": "Laptop",
+    "price": 999.99,
+    "tags": [
+      "electronics",
+      "computers"
+    ]
+  },
+  "productNames": [
+    "LAPTOP",
+    "SMARTPHONE",
+    "DESK CHAIR"
+  ],
+  "hasMobileTag": true,
+  "evenPricedProducts": [
+    {
+      "id": "003",
+      "name": "Desk Chair",
+      "price": 200,
+      "tags": [
+        "furniture"
+      ]
+    }
+  ]
+}
