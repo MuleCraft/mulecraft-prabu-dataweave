@@ -279,6 +279,12 @@ Click below to try the challenge
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/Inventory Management"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### Inventory Management
+
+Click below to try the challenge
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/Inventory Management"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
