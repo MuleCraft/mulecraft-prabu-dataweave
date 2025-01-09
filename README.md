@@ -279,11 +279,23 @@ Click below to try the challenge
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/Inventory Management"><img width="300" src="/images/dwplayground-button.png"><a>
 
-#### Inventory Management
+#### Transaction Management
 
 Click below to try the challenge
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/Inventory Management"><img width="300" src="/images/dwplayground-button.png"><a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/Transaction Management"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### Equities
+
+Click below to try the challenge
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/Equities"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### Product Management
+
+Click below to try the challenge
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mulecraft-prabu-dataweave&path=challenge/Product Management"><img width="300" src="/images/dwplayground-button.png"><a>
 
 
 
