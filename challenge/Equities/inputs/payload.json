@@ -1,1 +1,19 @@
-
+{
+  "equities": [
+    {
+      "symbol": "AAPL",
+      "price": 150,
+      "volume": 1000000
+    },
+    {
+      "symbol": "GOOGL",
+      "price": 2800.5,
+      "volume": 500000
+    },
+    {
+      "symbol": "MSFT",
+      "price": 299.99,
+      "volume": 2000000
+    }
+  ]
+}
