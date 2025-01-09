@@ -24,7 +24,7 @@ output application/json
  *     {
  *       "id": "003",
  *       "name": "Desk Chair",
- *       "price": 200
+ *       "price": 199.99
  *     }
  *   ]
  * }
