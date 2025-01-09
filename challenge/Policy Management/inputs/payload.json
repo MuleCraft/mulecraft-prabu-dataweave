@@ -1,1 +1,26 @@
-
+{
+  "policy": {
+    "policyNumber": "INS-123456",
+    "holder": {
+      "name": "John Doe",
+      "age": 30,
+      "premium": 1500.75
+    },
+    "coverage": {
+      "type": "Comprehensive",
+      "amount": 500000
+    },
+    "claims": [
+      {
+        "claimId": "C001",
+        "amount": 2000,
+        "status": "approved"
+      },
+      {
+        "claimId": "C002",
+        "amount": 3000,
+        "status": "pending"
+      }
+    ]
+  }
+}
